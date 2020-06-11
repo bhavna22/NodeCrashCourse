@@ -1,0 +1,23 @@
+{
+  "name": "nodecrashcourse",
+  "version": "1.0.0",
+  "description": "Node Crash Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavna22/NodeCrashCourse.git"
+  },
+  "author": "Bhavna Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhavna22/NodeCrashCourse/issues"
+  },
+  "homepage": "https://github.com/bhavna22/NodeCrashCourse#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "uuid": "^8.1.0"
+  }
+}
