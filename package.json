@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/bhavna22/NodeCrashCourse#readme",
   "dependencies": {
-    "nodemon": "^2.0.4",
+    "nodemon": "^2.0.20",
     "uuid": "^8.1.0"
   }
 }
